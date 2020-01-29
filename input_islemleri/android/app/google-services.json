@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595632197993",
+    "firebase_url": "https://flutter-ceedf.firebaseio.com",
+    "project_id": "flutter-ceedf",
+    "storage_bucket": "flutter-ceedf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595632197993:android:d05a1f8d0cf0b109c2adf8",
+        "android_client_info": {
+          "package_name": "com.example.input_islemleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595632197993-qtiuim8vg62i799ckgdis1mnq7jg7ig4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG9ANF_xXk6BuSi27sypHEeco2sBDuOkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595632197993-qtiuim8vg62i799ckgdis1mnq7jg7ig4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
